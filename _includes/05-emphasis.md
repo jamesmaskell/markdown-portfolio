@@ -1,4 +1,4 @@
 ## Beers
 
-_punk ipa_
-*belgian blue*
+- _punk ipa_
+- **belgian blue**
