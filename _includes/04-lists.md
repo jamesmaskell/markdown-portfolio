@@ -1,1 +1,4 @@
-Replace this with a list of your favorite things.
+# my list of thing
+- food
+- irn bru
+- games
